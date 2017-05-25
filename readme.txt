@@ -1,0 +1,2 @@
+# xplore
+Xplore is a desktop application for Windows 7 and above. It is a searching and summarizing software. It takes the search query from the chipboard and searches the online sources (the internet) for description , image and alternate meaning of the search query and displays the collected information in an organized way to the user. All these happens without the explicit interaction of the user. To use it, one needs to copy the text from any source imaginable and press Ctrl+Alt+X and the software will take care of the rest.
